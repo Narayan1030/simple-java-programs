@@ -1,3 +1,4 @@
+//java program to find the transpose of a 3x3 matrix
 import java.util.Scanner;
 class transpose{
     public static void main(String[] args) {
