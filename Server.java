@@ -1,3 +1,4 @@
+//server side program to implement TCP/IP server client communication
 import java.net.*;
 import java.io.*;
 class Server{
