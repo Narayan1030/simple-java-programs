@@ -1,3 +1,4 @@
+//server side program to implement  server client communication using datagram packet
 
 import java.io.*;
 import java.net.*;
