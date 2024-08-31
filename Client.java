@@ -1,3 +1,4 @@
+//client side program for client server communication using TCP/IP 
 import java.net.*;
 import java.io.*;
 class Client{
